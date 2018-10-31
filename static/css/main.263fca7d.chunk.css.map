@@ -1,1 +1,0 @@
-{"version":3,"sources":["/vagrant/app/mson-react/src/fields/collection-field.css"],"names":[],"mappings":"AAAA,0BACE,GACE,SAAW,CACZ,CACF,AAJD,kBACE,GACE,SAAW,CACZ,CACF","file":"main.263fca7d.chunk.css","sourcesContent":["@keyframes fadeIn {\n  from {\n    opacity: 0;\n  }\n}\n"]}
