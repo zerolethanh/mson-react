@@ -1,0 +1,1 @@
+{"version":3,"sources":["collection-field.css"],"names":[],"mappings":"AAAA,0BACE,GACE,SACF,CACF,CAJA,kBACE,GACE,SACF,CACF","file":"main.cfab4a29.chunk.css","sourcesContent":["@keyframes fadeIn {\n  from {\n    opacity: 0;\n  }\n}\n"]}

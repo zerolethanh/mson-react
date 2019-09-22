@@ -1,16 +1,18 @@
 {
-  "main.css": "/mson-react/static/css/main.2bbdd413.chunk.css",
-  "main.js": "/mson-react/static/js/main.1bf1aaa9.chunk.js",
-  "main.js.map": "/mson-react/static/js/main.1bf1aaa9.chunk.js.map",
-  "runtime~main.js": "/mson-react/static/js/runtime~main.2a8f41b6.js",
-  "runtime~main.js.map": "/mson-react/static/js/runtime~main.2a8f41b6.js.map",
-  "static/css/2.c3fb4102.chunk.css": "/mson-react/static/css/2.c3fb4102.chunk.css",
-  "static/js/2.122df009.chunk.js": "/mson-react/static/js/2.122df009.chunk.js",
-  "static/js/2.122df009.chunk.js.map": "/mson-react/static/js/2.122df009.chunk.js.map",
-  "index.html": "/mson-react/index.html",
-  "precache-manifest.33e2640d0bb377bfd87bcde1f0a95501.js": "/mson-react/precache-manifest.33e2640d0bb377bfd87bcde1f0a95501.js",
-  "service-worker.js": "/mson-react/service-worker.js",
-  "static/css/2.c3fb4102.chunk.css.map": "/mson-react/static/css/2.c3fb4102.chunk.css.map",
-  "static/css/main.2bbdd413.chunk.css.map": "/mson-react/static/css/main.2bbdd413.chunk.css.map",
-  "static/media/index.css": "/mson-react/static/media/roboto-latin-900italic.bc833e72.woff"
+  "files": {
+    "main.css": "/mson-react/static/css/main.cfab4a29.chunk.css",
+    "main.js": "/mson-react/static/js/main.93210ca6.chunk.js",
+    "main.js.map": "/mson-react/static/js/main.93210ca6.chunk.js.map",
+    "runtime-main.js": "/mson-react/static/js/runtime-main.364f28a2.js",
+    "runtime-main.js.map": "/mson-react/static/js/runtime-main.364f28a2.js.map",
+    "static/css/2.dc02b2f3.chunk.css": "/mson-react/static/css/2.dc02b2f3.chunk.css",
+    "static/js/2.481e6248.chunk.js": "/mson-react/static/js/2.481e6248.chunk.js",
+    "static/js/2.481e6248.chunk.js.map": "/mson-react/static/js/2.481e6248.chunk.js.map",
+    "index.html": "/mson-react/index.html",
+    "precache-manifest.d037d22a9cc336b5731a61bb91f43332.js": "/mson-react/precache-manifest.d037d22a9cc336b5731a61bb91f43332.js",
+    "service-worker.js": "/mson-react/service-worker.js",
+    "static/css/2.dc02b2f3.chunk.css.map": "/mson-react/static/css/2.dc02b2f3.chunk.css.map",
+    "static/css/main.cfab4a29.chunk.css.map": "/mson-react/static/css/main.cfab4a29.chunk.css.map",
+    "static/media/index.css": "/mson-react/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  }
 }
