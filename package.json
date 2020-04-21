@@ -11,7 +11,7 @@
     "test-server-start": "cross-env NODE_ENV=production ./node_modules/@babel/node/bin/babel-node.js ../mson-server/bin/test-server.js --port=4002 --prefix=mson_test_ --CORE_TEST &",
     "test-server-stop": "pkill -f --signal=SIGINT CORE_TEST & exit 0",
     "start": "react-scripts start",
-    "build": "node ./node_modules/react-scripts/scripts/build",
+    "build": "react-scripts build",
     "just-test": "./scripts/test.sh",
     "test": "npm run lint && npm run just-test -- --coverage",
     "copy-json": "copyfiles -u 1 src/**/*.json lib",
