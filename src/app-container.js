@@ -2,20 +2,20 @@ import React from 'react';
 import AppUI from './app';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
-import blueGrey from '@material-ui/core/colors/blueGrey';
-import lightBlue from '@material-ui/core/colors/lightBlue';
 import { BrowserRouter, Prompt } from 'react-router-dom';
 import globals from 'mson/lib/globals';
 import attach from './attach';
 import createMuiTheme from '@material-ui/core/styles/createMuiTheme';
+import blue from '@material-ui/core/colors/blue';
+import cyan from '@material-ui/core/colors/cyan';
 
 const theme = createMuiTheme({
   palette: {
-    primary: blueGrey,
+    primary: blue,
     // primary: blue,
     // type: 'dark',
     // secondary: cyan
-    secondary: lightBlue,
+    secondary: cyan,
   },
 
   // TODO: remove after next major Material-UI release
