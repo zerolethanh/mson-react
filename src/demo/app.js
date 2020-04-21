@@ -21,7 +21,7 @@ compiler.registerComponent('FormBuilder', FormBuilder);
 // Register all the components
 for (let name in components) {
   let component = components[name];
-  compiler.registerComponent(name, component);
+  compiler.registerComponent(component.name, component);
 }
 
 // Instantiate the app

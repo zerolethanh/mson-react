@@ -1,13 +1,13 @@
 import React from 'react';
 import AppUI from './app';
 import CssBaseline from '@material-ui/core/CssBaseline';
-import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
-import createMuiTheme from '@material-ui/core/styles/createMuiTheme';
+import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 import blueGrey from '@material-ui/core/colors/blueGrey';
 import lightBlue from '@material-ui/core/colors/lightBlue';
 import { BrowserRouter, Prompt } from 'react-router-dom';
 import globals from 'mson/lib/globals';
 import attach from './attach';
+import createMuiTheme from '@material-ui/core/styles/createMuiTheme';
 
 const theme = createMuiTheme({
   palette: {
@@ -15,14 +15,14 @@ const theme = createMuiTheme({
     // primary: blue,
     // type: 'dark',
     // secondary: cyan
-    secondary: lightBlue
+    secondary: lightBlue,
   },
 
   // TODO: remove after next major Material-UI release
   // (https://material-ui.com/style/typography/#migration-to-typography-v2)
   typography: {
-    useNextVariants: true
-  }
+    useNextVariants: true,
+  },
 
   // shadows: ['none']
 });
