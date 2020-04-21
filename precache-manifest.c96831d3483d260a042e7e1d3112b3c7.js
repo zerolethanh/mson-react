@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "628b4ce6c4af1f62f30d02e02c422477",
+    "revision": "cbf4f6ad1199b95fa17b22a847fd6a20",
     "url": "/mson-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mson-react/static/css/2.f6b58941.chunk.css"
   },
   {
-    "revision": "53f00afeb4ccfb33e4fc",
+    "revision": "5ee45ae0d5b3e357834b",
     "url": "/mson-react/static/css/main.65d0455a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mson-react/static/js/2.785f742d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53f00afeb4ccfb33e4fc",
-    "url": "/mson-react/static/js/main.e0eb3f74.chunk.js"
+    "revision": "5ee45ae0d5b3e357834b",
+    "url": "/mson-react/static/js/main.2be8c28f.chunk.js"
   },
   {
     "revision": "4e492142904cea4a8d74",
