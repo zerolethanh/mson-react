@@ -5,7 +5,7 @@
   "author": "Geoff Cox",
   "license": "Apache-2.0",
   "main": "lib/bundle.js",
-  "homepage": "https://redgeoff.github.io/mson-react",
+  "homepage": "/mson-react",
   "scripts": {
     "lint": "eslint src",
     "test-server-start": "cross-env NODE_ENV=production ./node_modules/@babel/node/bin/babel-node.js ../mson-server/bin/test-server.js --port=4002 --prefix=mson_test_ --CORE_TEST &",
