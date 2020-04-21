@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbf4f6ad1199b95fa17b22a847fd6a20",
+    "revision": "550e1d6a12152af67c786449850f0c9f",
     "url": "/mson-react/index.html"
   },
   {
-    "revision": "5e203f795e79062669a1",
-    "url": "/mson-react/static/css/2.f6b58941.chunk.css"
+    "revision": "39ca4a97486bd79540e6",
+    "url": "/mson-react/static/css/2.e447266b.chunk.css"
   },
   {
-    "revision": "5ee45ae0d5b3e357834b",
-    "url": "/mson-react/static/css/main.65d0455a.chunk.css"
+    "revision": "eac21a364983477baed5",
+    "url": "/mson-react/static/css/main.10d695ab.chunk.css"
   },
   {
-    "revision": "5e203f795e79062669a1",
+    "revision": "39ca4a97486bd79540e6",
     "url": "/mson-react/static/js/2.785f742d.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mson-react/static/js/2.785f742d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ee45ae0d5b3e357834b",
-    "url": "/mson-react/static/js/main.2be8c28f.chunk.js"
+    "revision": "eac21a364983477baed5",
+    "url": "/mson-react/static/js/main.6338107d.chunk.js"
   },
   {
     "revision": "4e492142904cea4a8d74",
